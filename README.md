@@ -26,7 +26,11 @@ The columns in this dataset are:
 18. Full Bath - The number of full bathrooms in the property.
 19. Half Bath - The number of half bathrooms in the property.
 
-In this project, I performed data cleaning on the Nashville housing dataset using PostgreSQL. I standardized data formats, corrected errors, checked for duplicates using Window Functions and CTEs, populated null values through JOINs and deleted unnecessary columns.
+In this project, I performed data cleaning on the Nashville housing dataset using PostgreSQL, which was done in four stages:
+1. Standardizing data formats and correcting errors.
+2. Populating null values through JOINs.
+3. Checking for duplicates using Window Functions and CTEs.
+4. Deleting unnecessary columns.
 
 Attached are the project file and the csv file contains the dataset.
 
